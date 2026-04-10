@@ -1,0 +1,5 @@
+print('Hello!')
+print(1+1)
+print('I love peace')
+print("Life", "is", "beautiful", sep ="-", end="\n")
+print("colorful", "world!", sep = "-")
